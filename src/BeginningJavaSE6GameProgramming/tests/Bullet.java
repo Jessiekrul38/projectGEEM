@@ -1,5 +1,5 @@
 package BeginningJavaSE6GameProgramming.tests;
-
+//Bullet handling
 import java.awt.Rectangle;
 
 //Bullet class - polygonal shape of a bullet
